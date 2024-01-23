@@ -1,4 +1,18 @@
 
+.container-sm {
+    width:600px;
+    margin-top:10%;
+}
+.text-center {
+font-size: 80px;
+    color: lightpink;
+}
+.list-group {
+    list-style: none;
+}
+.btn {
+    color: orangered;
+}
 /* 
 
     You can write your own styles here...
